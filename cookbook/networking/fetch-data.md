@@ -23,7 +23,7 @@ keywords: Flutter网络请求
 
 ```
 dependencies:
-  http: <latest_version>
+  http: <latest_version> // 提示错误，需要指定版本   如 http: ^0.12.0
 ```
 
 ## 2. 发起网络请求
